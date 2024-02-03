@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael Saraiva</h1>
-<h3 align="center">Full-Stack developer from Brazil.</h3>
+<h3 align="center">Front-End developer from Brazil.</h3>
 
 
 - 🔭 I’m currently working on something cool =)
