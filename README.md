@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on something cool =)
-- 🌱 I’m currently learning **TypeScript, VueJs**  
+- 🌱 I’m currently learning **TypeScript, NextJS  
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/rafaelsrv/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: my first contact with programming was in 2010!
